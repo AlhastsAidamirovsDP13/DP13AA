@@ -1,4 +1,4 @@
-# DP13AA
+# Intro in GIT
 
 
 
@@ -18,3 +18,7 @@ git config user.name "AlhastsAidamirovsDP13"
 git config user.email "diamondsoldierlv@inbox.lv"
 
 ```
+
+
+## Status
+Viss ir baigi forši .
